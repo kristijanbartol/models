@@ -31,7 +31,7 @@ import util
 gfile = tf.gfile
 slim = tf.contrib.slim
 
-NUM_SCALES = 4
+NUM_SCALES = 4 
 
 
 class Model(object):
